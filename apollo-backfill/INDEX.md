@@ -1,10 +1,11 @@
 # Backfill Apollo — reuniones externas con clientes
 
-68 reuniones (excluidas: internas recurrentes, 0-min/sin transcript, y la demo de Apollo).
-Ultima actualizacion: 2026-09-02.
+69 reuniones (excluidas: internas recurrentes, 0-min/sin transcript, y la demo de Apollo).
+Ultima actualizacion: 2026-09-03.
 
 | Fecha | Min | Reunion | Externos |
 |---|---|---|---|
+| 2026-09-03 | 66 | [Paladini-Teramot Demo](2026-09-03-paladini-teramot-demo-6e730e.md) | carlos.krejci@paladini.com, andres.garagiola@paladini.com |
 | 2026-08-28 | 33 | [Entrevistas a ICP Teramot- Federico Orsi](2026-08-28-entrevistas-a-icp-teramot-federico-orsi-5cc7ab.md) | federicojorsi@gmail.com |
 | 2026-08-28 | 66 | [Demo Tecno Patagonia](2026-08-28-demo-tecno-patagonia-c62042.md) | ing.mariano.delariestra@gmail.com |
 | 2026-08-25 | 23 | [Comarsa <> Teramot](2026-08-25-comarsa-teramot-d17d80.md) | mariela.niell@drogueriacomarsa.com.ar |
