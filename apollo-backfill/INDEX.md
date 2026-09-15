@@ -1,11 +1,18 @@
 # Backfill Apollo — reuniones externas con clientes
 
-69 reuniones (excluidas: internas recurrentes, 0-min/sin transcript, y la demo de Apollo).
-Ultima actualizacion: 2026-09-03.
+76 reuniones (excluidas: internas recurrentes, 0-min/sin transcript, y la demo de Apollo).
+Ultima actualizacion: 2026-09-15.
 
 | Fecha | Min | Reunion | Externos |
 |---|---|---|---|
+| 2026-09-15 | 60 | [Tablero Agentico / Sesion  1 (BIND /Teramot)](2026-09-15-tablero-agentico-sesion-1-bind-teramot-927e80.md) | imoreno@bind.com.ar |
+| 2026-09-10 | 64 | [CGC <> Teramot](2026-09-10-cgc-teramot-c0124d.md) | pablo_lagler@cgc.com.ar, joaquin_arito@cgc.com.ar, federico_salvia@cgc.com.ar |
+| 2026-09-09 | 49 | [Teramot <> Vero](2026-09-09-teramot-vero-fee041.md) | veronica.barrios@hzgroup.com.ar |
+| 2026-09-09 | 58 | [Infocus Partnership Teramot](2026-09-09-infocus-partnership-teramot-acb212.md) | laboral.infocus@gmail.com, danielapgirotti@gmail.com |
+| 2026-09-09 | 61 | [Hablemos !  Lucio  (Veronica Daiana Barrios)](2026-09-09-hablemos-lucio-veronica-daiana-barrios-35839d.md) | vdbarrios@gmail.com |
+| 2026-09-08 | 62 | [Meeting with Bruno 60 min (Andrés Rabinovich)](2026-09-08-meeting-with-bruno-60-min-andres-rabinovich-79df35.md) | arabinovich@calice.ai |
 | 2026-09-03 | 66 | [Paladini-Teramot Demo](2026-09-03-paladini-teramot-demo-6e730e.md) | carlos.krejci@paladini.com, andres.garagiola@paladini.com |
+| 2026-09-03 | 37 | [Hz Group <> Teramot](2026-09-03-hz-group-teramot-6aed06.md) | veronica.barrios@hzgroup.com.ar |
 | 2026-08-28 | 33 | [Entrevistas a ICP Teramot- Federico Orsi](2026-08-28-entrevistas-a-icp-teramot-federico-orsi-5cc7ab.md) | federicojorsi@gmail.com |
 | 2026-08-28 | 66 | [Demo Tecno Patagonia](2026-08-28-demo-tecno-patagonia-c62042.md) | ing.mariano.delariestra@gmail.com |
 | 2026-08-25 | 23 | [Comarsa <> Teramot](2026-08-25-comarsa-teramot-d17d80.md) | mariela.niell@drogueriacomarsa.com.ar |
