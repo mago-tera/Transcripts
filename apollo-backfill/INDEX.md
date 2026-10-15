@@ -1,10 +1,36 @@
 # Backfill Apollo — reuniones externas con clientes
 
-81 reuniones (excluidas: internas recurrentes, 0-min/sin transcript, y la demo de Apollo).
-Ultima actualizacion: 2026-09-16.
+107 reuniones (excluidas: internas recurrentes, 0-min/sin transcript, y la demo de Apollo).
+Ultima actualizacion: 2026-10-15.
 
 | Fecha | Min | Reunion | Externos |
 |---|---|---|---|
+| 2026-10-15 | 87 | [Hablemos !  Lucio  (María Florencia Canton)](2026-10-15-hablemos-lucio-maria-florencia-canton-3e4655.md) | mariaflorencia.canton@crowe.com.ar |
+| 2026-10-14 | 26 | [Intro Teramot IA (Veronica Daiana Barrios)](2026-10-14-intro-teramot-ia-veronica-daiana-barrios-b174db.md) | vdbarrios@gmail.com |
+| 2026-10-14 | 31 | [Ayudin POC](2026-10-14-ayudin-poc-f6fe05.md) | pablo.barbarelli@grupoayudin.com, cristian.schiavo@grupoayudin.com |
+| 2026-10-13 | 48 | [Teramot <> CGC](2026-10-13-teramot-cgc-e20a87.md) | federico_salvia@cgc.com.ar, alejandro_lopez@cgc.com.ar |
+| 2026-10-13 | 17 | [Meeting with Bruno 60 min (Nacho Gomez Portillo)](2026-10-13-meeting-with-bruno-60-min-nacho-gomez-portillo-64cce8.md) | nacho@egg.live, juan@egg.live |
+| 2026-10-13 | 44 | [Impromptu meeting](2026-10-13-impromptu-meeting-fcaac1.md) | Federico Semino, Marco |
+| 2026-10-09 | 45 | [Lodiser <> Teramot](2026-10-09-lodiser-teramot-3f6d0f.md) | eonocko@lodiser.com.ar |
+| 2026-10-08 | 29 | [Impromptu meeting](2026-10-08-impromptu-meeting-b6c9f5.md) | Raquel Dominguez |
+| 2026-10-08 | 22 | [Impromptu meeting](2026-10-08-impromptu-meeting-20d1c3.md) | Maximiliano Majul, Facundo Ignacio Vivas |
+| 2026-10-07 | 44 | [45 min w/ Juan (Mariela Niell)](2026-10-07-45-min-w-juan-mariela-niell-5579ba.md) | mariela.niell@drogueriacomarsa.com.ar |
+| 2026-10-06 | 41 | [Intro-Teramot between Franco Ferrero and Guntín Ocampo José Manuel](2026-10-06-intro-teramot-between-franco-ferrero-and-guntin-ocampo-jose--91e76a.md) | jose.guntin@ferromex.mx, pedro.larghi@synthesized.io, Teo Gimenez |
+| 2026-10-06 | 18 | [Impromptu meeting](2026-10-06-impromptu-meeting-a0e22d.md) | Uriel Segaloff, Facundo Ignacio Vivas, Esteban Onocko |
+| 2026-10-05 | 93 | [CROWE](2026-10-05-crowe-8b7551.md) | Horst Mateo, Faccioli Facundo, Navone Marcelo, Piniero Esteban, Malasisi Gaspar, Ayub Marcelo, Gonzalez Agustin, Cantón María Florencia |
+| 2026-10-02 | 74 | [Presupuesto 2027](2026-10-02-presupuesto-2027-1053cc.md) | fversari@bindseguros.com.ar, mgonzalez@bindseguros.com.ar |
+| 2026-10-01 | 61 | [YPF Tesoreria - Teramot ](2026-10-01-ypf-tesoreria-teramot-f136b7.md) | p.cordeviola@ypf.com |
+| 2026-09-29 | 42 | [Mundo Maipu](2026-09-29-mundo-maipu-6e0099.md) | Facundo Ignacio Vivas, majul.maximiliano@gmail.com |
+| 2026-09-28 | 35 | [Impromptu meeting](2026-09-28-impromptu-meeting-f0a2dd.md) | Christian Schiavo, Pablo Barbarelli |
+| 2026-09-28 | 58 | [Hablemos !  Lucio  (Magdalena Rodriguez)](2026-09-28-hablemos-lucio-magdalena-rodriguez-e8c1d7.md) | christian Julian Dominguez, Ignacio Garcia Gimenez, Joaquin Arito, Male |
+| 2026-09-25 | 28 | [Teramot <> J&J](2026-09-25-teramot-j-j-95bb6e.md) | Pedro Sánchez |
+| 2026-09-25 | 31 | [Milicic](2026-09-25-milicic-f16bb2.md) | bruno.pace@milicic.com.ar |
+| 2026-09-24 | 78 | [Traspaso del tablero de renovaciónes.](2026-09-24-traspaso-del-tablero-de-renovaciones-a8a8dd.md) | fversari@bindseguros.com.ar, imoreno@bind.com.ar |
+| 2026-09-24 | 64 | [Presentacion y Demo de Teramot a FyO Finanzas](2026-09-24-presentacion-y-demo-de-teramot-a-fyo-finanzas-381448.md) | lghelfi@fyo.com |
+| 2026-09-23 | 29 | [RE: PDC7839 - IA Monitoreo inteligente de Lectura](2026-09-23-re-pdc7839-ia-monitoreo-inteligente-de-lectura-423c9e.md) | federico.brinkworth@litoralgas.com.ar, mariana.gorosito@litoralgas.com.ar, fabian.alegre@litoralgas.com.ar, FERTITTA Luis, NASH Nicolas |
+| 2026-09-23 | 75 | [ RE: [EXTERNO] Re: Presentación Teramot - YPF](2026-09-23-re-externo-re-presentacion-teramot-ypf-4a9db4.md) | ariel.almiron@ypf.com, n.bachli@ypf.com, jorge.subijana@ypf.com, margarita.chun@ypf.com, OLGUIN, MIGUEL |
+| 2026-09-22 | 26 | [Vero y Franco](2026-09-22-vero-y-franco-e7203b.md) | veronica.barrios@hzgroup.com.ar |
+| 2026-09-21 | 151 | [Teramot Demo - La Anónima](2026-09-21-teramot-demo-la-anonima-fdfc3f.md) | vgualdi@laanonima.com.ar, amuia@laanonima.com.ar, mschulz@laanonima.com.ar, spasseron@laanonima.com.ar, msempertegui@salesforce.com, fdumas@vurpix.com, sergio.longo@vurpix.com |
 | 2026-09-16 | 37 | [Teramot <> Mundo Maipu](2026-09-16-teramot-mundo-maipu-8e1d6d.md) | Facundo Ignacio Vivas, Maximiliano Majul <majul.maximiliano@gmail.com> |
 | 2026-09-16 | 61 | [Hablemos !  Lucio  (Julieta Giordano)](2026-09-16-hablemos-lucio-julieta-giordano-dc21e2.md) | Daniela Girotti <danielapgirotti@gmail.com>, Ana Laura Gallo, Infocus Laboral <laboral.infocus@gmail.com>, Julieta Giordano <julieta.giordano.jag@gmail.com> |
 | 2026-09-15 | 60 | [Tablero Agentico / Sesion  1 (BIND /Teramot)](2026-09-15-tablero-agentico-sesion-1-bind-teramot-927e80.md) | imoreno@bind.com.ar |
