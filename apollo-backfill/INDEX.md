@@ -1,10 +1,20 @@
 # Backfill Apollo — reuniones externas con clientes
 
-107 reuniones (excluidas: internas recurrentes, 0-min/sin transcript, y la demo de Apollo).
-Ultima actualizacion: 2026-10-15.
+117 reuniones (excluidas: internas recurrentes, 0-min/sin transcript, y la demo de Apollo).
+Ultima actualizacion: 2026-10-26.
 
 | Fecha | Min | Reunion | Externos |
 |---|---|---|---|
+| 2026-10-26 | 62 | [Teramot (Federico Semino)](2026-10-26-teramot-federico-semino-c7614d.md) | Lucía Guercetti, Marco |
+| 2026-10-23 | 85 | [Rosental CS- Alerts & Dashboards](2026-10-23-rosental-cs-alerts-dashboards-8b81cc.md) | jppellegrini@rosental.com.ar, Mariela Benitez |
+| 2026-10-22 | 33 | [Impromptu meeting](2026-10-22-impromptu-meeting-f654a9.md) | Ariel Franco |
+| 2026-10-19 | 63 | [Teramot - YPF LUZ ](2026-10-19-teramot-ypf-luz-775f6b.md) | Verónica Cisneros, Carlos, Alberto Bosch, Mariano Ayuso - YPF Luz |
+| 2026-10-19 | 58 | [Previnca- Teramot](2026-10-19-previnca-teramot-86e573.md) | carolinadallabona@gmail.com, Victoria Uria, fcordoba@previncaholding.com.ar, vale berardi |
+| 2026-10-19 | 51 | [Agenda CS (Fernando  VERSARI)](2026-10-19-agenda-cs-fernando-versari-d1e30f.md) | msanguinetti@bindseguros.com.ar, fversari@bindseguros.com.ar |
+| 2026-10-16 | 25 | [Teramot calipso](2026-10-16-teramot-calipso-40c328.md) | mariaflorencia.canton@crowe.com.ar, agustina.penalba@crowe.com.ar, Facundo Ignacio Vivas |
+| 2026-10-16 | 28 | [Migración de Pólizas (TERAMOT)](2026-10-16-migracion-de-polizas-teramot-6e6af2.md) | mpiermatei@lasegunda.com.ar, riudica@lasegunda.com.ar, gbaldellou@lasegunda.com.ar, lnasif@lasegunda.com.ar, regea@lasegunda.com.ar, mghiorzo@lasegunda.com.ar, gustavo.goio@sbi-technology.com, ignacio.fernandez@sbi-technology.com, Oscar Gerardo Navarro |
+| 2026-10-16 | 59 | [LA 2nda oportunidades](2026-10-16-la-2nda-oportunidades-28b0b5.md) | Santiago Cires, Gabriel Baldellou, Joaquin Velasco, Paula Tettamanzi, Nicolas Palestini Abramovich, Mauro Casella, Sara Giacosa |
+| 2026-10-16 | 51 | [Demo BLC](2026-10-16-demo-blc-fd2611.md) | Maxi Diaz, Sitar Tecnologia, rdominguez@rastriq-ia.com |
 | 2026-10-15 | 87 | [Hablemos !  Lucio  (María Florencia Canton)](2026-10-15-hablemos-lucio-maria-florencia-canton-3e4655.md) | mariaflorencia.canton@crowe.com.ar |
 | 2026-10-14 | 26 | [Intro Teramot IA (Veronica Daiana Barrios)](2026-10-14-intro-teramot-ia-veronica-daiana-barrios-b174db.md) | vdbarrios@gmail.com |
 | 2026-10-14 | 31 | [Ayudin POC](2026-10-14-ayudin-poc-f6fe05.md) | pablo.barbarelli@grupoayudin.com, cristian.schiavo@grupoayudin.com |
